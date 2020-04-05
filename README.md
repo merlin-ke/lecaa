@@ -3,6 +3,13 @@ Code to Test Lets Encrypt CAA Bug.https://medium.com/@muchilwa/all-you-need-to-k
 The script is a hack written in python 3
 It allows you to run the check against a single domain or from a text file containing a list of domain.
 Main purpose is to allow the community identify affected sites and do something about it. I also needed to learn how to python 3.
+## Requirements:
+* Python 3
+* Internet access
+## Execution
+* Clone the repor.
+* Run the vulnech.py script and follow the prompts
+
 <br>run</br> 
 ```
 ./vulncheck.py
